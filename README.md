@@ -1,2 +1,1 @@
-- Hi, i'm john
-- I hacked this account
+Привет! Я пофиксил этого человечка)
